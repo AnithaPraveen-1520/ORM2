@@ -39,15 +39,15 @@ admin.py
 from django.contrib import admin
 from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
+```
 
 
 
 
 
 ## OUTPUT
-ORM2/Screenshot 2025-11-22 101649.png
-ORM2/Screenshot 2025-11-22 104405.png
-
+![alt text](scr1.png)
+![alt text](scr2.png)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
